@@ -1,9 +1,11 @@
 1. Train GAN
 
 python GAN.py
+
 2. Train VAE
 
 python VAE.py
+
 3. Output
 
 After training, the output images of GAN is in GAN_result and the output of VAE is in VAE_result.
